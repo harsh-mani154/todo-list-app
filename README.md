@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## deployment
+
+You can this application here https://coruscating-sunshine-8135b9.netlify.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
