@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## deployment
 
-You can this application here https://coruscating-sunshine-8135b9.netlify.app/
+You can this application here https://todo-app-react-harsh.netlify.app/
 
 ## Available Scripts
 
